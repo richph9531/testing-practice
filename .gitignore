@@ -1,0 +1,7 @@
+node_modules
+/playwright-tests/results
+/playwright-report
+
+.DS_Store
+
+.next
